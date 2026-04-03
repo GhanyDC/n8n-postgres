@@ -1,0 +1,14 @@
+.env
+.env.local
+.DS_Store
+
+n8n_data/
+postgres_data/
+
+custom/nodes/node_modules/
+custom/nodes/package-lock.json
+
+*.log
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
