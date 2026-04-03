@@ -12,7 +12,7 @@ This repository is set up for developers who want:
 ## Stack
 
 - `n8n`
-- `PostgreSQL 15`
+- `PostgreSQL`
 - `Docker Compose`
 
 ## Project Structure
